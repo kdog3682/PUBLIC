@@ -1,0 +1,716 @@
+.mt6 {
+    margin-top: 6pt;
+}
+
+.mt12 {
+    margin-top: 12pt;
+}
+
+.mt18 {
+    margin-top: 18pt;
+}
+
+.mt24 {
+    margin-top: 24pt;
+}
+
+.mr6 {
+    margin-right: 6pt;
+}
+
+.mr12 {
+    margin-right: 12pt;
+}
+
+.mr18 {
+    margin-right: 18pt;
+}
+
+.mr24 {
+    margin-right: 24pt;
+}
+
+.mb6 {
+    margin-bottom: 6pt;
+}
+
+.mb12 {
+    margin-bottom: 12pt;
+}
+
+.mb18 {
+    margin-bottom: 18pt;
+}
+
+.mb24 {
+    margin-bottom: 24pt;
+}
+
+.ml6 {
+    margin-left: 6pt;
+}
+
+.ml12 {
+    margin-left: 12pt;
+}
+
+.ml18 {
+    margin-left: 18pt;
+}
+
+.ml24 {
+    margin-left: 24pt;
+}
+
+.pt6 {
+    padding-top: 6pt;
+}
+
+.pt12 {
+    padding-top: 12pt;
+}
+
+.pt18 {
+    padding-top: 18pt;
+}
+
+.pt24 {
+    padding-top: 24pt;
+}
+
+.pr6 {
+    padding-right: 6pt;
+}
+
+.pr12 {
+    padding-right: 12pt;
+}
+
+.pr18 {
+    padding-right: 18pt;
+}
+
+.pr24 {
+    padding-right: 24pt;
+}
+
+.pb6 {
+    padding-bottom: 6pt;
+}
+
+.pb12 {
+    padding-bottom: 12pt;
+}
+
+.pb18 {
+    padding-bottom: 18pt;
+}
+
+.pb24 {
+    padding-bottom: 24pt;
+}
+
+.pl6 {
+    padding-left: 6pt;
+}
+
+.pl12 {
+    padding-left: 12pt;
+}
+
+.pl18 {
+    padding-left: 18pt;
+}
+
+.pl24 {
+    padding-left: 24pt;
+}
+
+.bgg {
+    background: #9e9e9e;
+}
+
+.cg {
+    color: #9e9e9e;
+}
+
+.og {
+    outline: #9e9e9e;
+}
+
+.bcg {
+    border-color: #9e9e9e;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgs {
+    background: #64748b;
+}
+
+.cs {
+    color: #64748b;
+}
+
+.os {
+    outline: #64748b;
+}
+
+.bcs {
+    border-color: #64748b;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bggray {
+    background: #6b7280;
+}
+
+.cgray {
+    color: #6b7280;
+}
+
+.ogray {
+    outline: #6b7280;
+}
+
+.bcgray {
+    border-color: #6b7280;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgz {
+    background: #71717a;
+}
+
+.cz {
+    color: #71717a;
+}
+
+.oz {
+    outline: #71717a;
+}
+
+.bcz {
+    border-color: #71717a;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgn {
+    background: #737373;
+}
+
+.cn {
+    color: #737373;
+}
+
+.on {
+    outline: #737373;
+}
+
+.bcn {
+    border-color: #737373;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgstone {
+    background: #78716c;
+}
+
+.cstone {
+    color: #78716c;
+}
+
+.ostone {
+    outline: #78716c;
+}
+
+.bcstone {
+    border-color: #78716c;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgr {
+    background: #ef4444;
+}
+
+.cr {
+    color: #ef4444;
+}
+
+.or {
+    outline: #ef4444;
+}
+
+.bcr {
+    border-color: #ef4444;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgo {
+    background: #f97316;
+}
+
+.co {
+    color: #f97316;
+}
+
+.oo {
+    outline: #f97316;
+}
+
+.bco {
+    border-color: #f97316;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bga {
+    background: #f59e0b;
+}
+
+.ca {
+    color: #f59e0b;
+}
+
+.oa {
+    outline: #f59e0b;
+}
+
+.bca {
+    border-color: #f59e0b;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgy {
+    background: #eab308;
+}
+
+.cy {
+    color: #eab308;
+}
+
+.oy {
+    outline: #eab308;
+}
+
+.bcy {
+    border-color: #eab308;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgl {
+    background: #84cc16;
+}
+
+.cl {
+    color: #84cc16;
+}
+
+ol {
+    outline: #84cc16;
+}
+
+.bcl {
+    border-color: #84cc16;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bggreen {
+    background: #22c55e;
+}
+
+.cgreen {
+    color: #22c55e;
+}
+
+.ogreen {
+    outline: #22c55e;
+}
+
+.bcgreen {
+    border-color: #22c55e;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bge {
+    background: #10b981;
+}
+
+.ce {
+    color: #10b981;
+}
+
+.oe {
+    outline: #10b981;
+}
+
+.bce {
+    border-color: #10b981;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgt {
+    background: #14b8a6;
+}
+
+.ct {
+    color: #14b8a6;
+}
+
+.ot {
+    outline: #14b8a6;
+}
+
+.bct {
+    border-color: #14b8a6;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgc {
+    background: #06b6d4;
+}
+
+.cc {
+    color: #06b6d4;
+}
+
+.oc {
+    outline: #06b6d4;
+}
+
+.bcc {
+    border-color: #06b6d4;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgsky {
+    background: #0ea5e9;
+}
+
+.csky {
+    color: #0ea5e9;
+}
+
+.osky {
+    outline: #0ea5e9;
+}
+
+.bcsky {
+    border-color: #0ea5e9;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgb {
+    background: #3b82f6;
+}
+
+.cb {
+    color: #3b82f6;
+}
+
+.ob {
+    outline: #3b82f6;
+}
+
+.bcb {
+    border-color: #3b82f6;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgi {
+    background: #6366f1;
+}
+
+.ci {
+    color: #6366f1;
+}
+
+.oi {
+    outline: #6366f1;
+}
+
+.bci {
+    border-color: #6366f1;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgv {
+    background: #8b5cf6;
+}
+
+.cv {
+    color: #8b5cf6;
+}
+
+.ov {
+    outline: #8b5cf6;
+}
+
+.bcv {
+    border-color: #8b5cf6;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgp {
+    background: #a855f7;
+}
+
+.cp {
+    color: #a855f7;
+}
+
+.op {
+    outline: #a855f7;
+}
+
+.bcp {
+    border-color: #a855f7;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgf {
+    background: #d946ef;
+}
+
+.cf {
+    color: #d946ef;
+}
+
+.of {
+    outline: #d946ef;
+}
+
+.bcf {
+    border-color: #d946ef;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgpink {
+    background: #ec4899;
+}
+
+.cpink {
+    color: #ec4899;
+}
+
+.opink {
+    outline: #ec4899;
+}
+
+.bcpink {
+    border-color: #ec4899;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bgrose {
+    background: #f43f5e;
+}
+
+.crose {
+    color: #f43f5e;
+}
+
+.orose {
+    outline: #f43f5e;
+}
+
+.bcrose {
+    border-color: #f43f5e;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.reset {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.rel {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+}
+
+.top6 {
+    position: absolute;
+    top: 6pt;
+}
+
+.top12 {
+    position: absolute;
+    top: 12pt;
+}
+
+.top18 {
+    position: absolute;
+    top: 18pt;
+}
+
+.top24 {
+    position: absolute;
+    top: 24pt;
+}
+
+.top-6 {
+    position: absolute;
+    top: -6pt;
+}
+
+.top-12 {
+    position: absolute;
+    top: -12pt;
+}
+
+.top-18 {
+    position: absolute;
+    top: -18pt;
+}
+
+.top-24 {
+    position: absolute;
+    top: -24pt;
+}
+
+.right6 {
+    position: absolute;
+    right: 6pt;
+}
+
+.right12 {
+    position: absolute;
+    right: 12pt;
+}
+
+.right18 {
+    position: absolute;
+    right: 18pt;
+}
+
+.right24 {
+    position: absolute;
+    right: 24pt;
+}
+
+.right-6 {
+    position: absolute;
+    right: -6pt;
+}
+
+.right-12 {
+    position: absolute;
+    right: -12pt;
+}
+
+.right-18 {
+    position: absolute;
+    right: -18pt;
+}
+
+.right-24 {
+    position: absolute;
+    right: -24pt;
+}
+
+.bottom6 {
+    position: absolute;
+    bottom: 6pt;
+}
+
+.bottom12 {
+    position: absolute;
+    bottom: 12pt;
+}
+
+.bottom18 {
+    position: absolute;
+    bottom: 18pt;
+}
+
+.bottom24 {
+    position: absolute;
+    bottom: 24pt;
+}
+
+.bottom-6 {
+    position: absolute;
+    bottom: -6pt;
+}
+
+.bottom-12 {
+    position: absolute;
+    bottom: -12pt;
+}
+
+.bottom-18 {
+    position: absolute;
+    bottom: -18pt;
+}
+
+.bottom-24 {
+    position: absolute;
+    bottom: -24pt;
+}
+
+.left6 {
+    position: absolute;
+    left: 6pt;
+}
+
+.left12 {
+    position: absolute;
+    left: 12pt;
+}
+
+.left18 {
+    position: absolute;
+    left: 18pt;
+}
+
+.left24 {
+    position: absolute;
+    left: 24pt;
+}
+
+.left-6 {
+    position: absolute;
+    left: -6pt;
+}
+
+.left-12 {
+    position: absolute;
+    left: -12pt;
+}
+
+.left-18 {
+    position: absolute;
+    left: -18pt;
+}
+
+.left-24 {
+    position: absolute;
+    left: -24pt;
+}
+
